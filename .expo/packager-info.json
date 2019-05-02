@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 18062,
-  "expoServerNgrokUrl": "https://te-i3s.anonymous.scannerwelon.exp.direct",
-  "packagerNgrokUrl": "https://packager.te-i3s.anonymous.scannerwelon.exp.direct",
-  "ngrokPid": 18100
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
